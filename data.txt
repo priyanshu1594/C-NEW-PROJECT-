@@ -1,0 +1,3 @@
+Fruit: kiwi, Color: green
+Fruit: mango, Color: yellow
+Fruit: apple, Color: red
